@@ -5,7 +5,7 @@
 
 facebook:https://www.facebook.com/phudrrrrrrr/
 
-linkedin:https://www.linkedin.com/in/ph%C3%BA-%C4%91%E1%BB%97-46976b1a5/
+linkedin:https://www.linkedin.com/in/doducphu/
 
 gmail: doducphuhcmus@gmail.com
 
